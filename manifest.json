@@ -7,5 +7,10 @@
   "action": {
     "default_popup": "index.html",
     "default_title": "Quick Visit"
+  },
+  "icons": {
+    "16": "./assets/bookmark.png",
+    "48": "./assets/bookmark.png",
+    "128": "./assets/bookmark.png"
   }
 }

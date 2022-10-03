@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; display: block; shape-rendering: auto; animation-play-state: running; animation-delay: 0s;" width="92px" height="92px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; display: block; shape-rendering: auto; animation-play-state: running; animation-delay: 0s;" width="40px" height="25px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
 <circle cx="84" cy="50" r="10" fill="#ffffff" style="animation-play-state: running; animation-delay: 0s;">
     <animate attributeName="r" repeatCount="indefinite" dur="0.40322580645161293s" calcMode="spline" keyTimes="0;1" values="11;0" keySplines="0 0.5 0.5 1" begin="0s" style="animation-play-state: running; animation-delay: 0s;"></animate>
     <animate attributeName="fill" repeatCount="indefinite" dur="1.6129032258064517s" calcMode="discrete" keyTimes="0;0.25;0.5;0.75;1" values="#ffffff;#dce4eb;#bbcedd;#85a2b6;#ffffff" begin="0s" style="animation-play-state: running; animation-delay: 0s;"></animate>
